@@ -1,6 +1,6 @@
 # hidden-citation
 
-This is the public repository for Xiangyi Meng, Onur Varol, and Albert-László Barabási, "Hidden Citations Obscure True Impact in Science". The repo consists of two Mathematica notebooks (ArxivNetHiddenCitationParse.nb and ArxivNetHiddenCitationLDA.nb) and all intermediate results (subGPhy10000/).
+This is the public repository for Xiangyi Meng, Onur Varol, and Albert-László Barabási, "Hidden Citations Obscure True Impact in Science". The repo consists of two Mathematica notebooks (ArxivNetHiddenCitationParse.nb and ArxivNetHiddenCitationLDA.nb). The intermediate results (subGPhy10000/) are available at https://zenodo.org/doi/10.5281/zenodo.11391041.
 
 __ArxivNetHiddenCitationParse.nb__: Parse the citation context using Mathematica's built-in functions.
 
