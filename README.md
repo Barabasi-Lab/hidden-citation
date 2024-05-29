@@ -13,7 +13,7 @@ __ArxivNetHiddenCitationParse.nb__: Parse the citation context using Mathematica
 
 
 
-__ArxivNetHiddenCitationLDA.nb__: A synchronous parallel implementation of the collapsed Gibbs sampling method for the latent Dirichlet allocation algorithm (LDA).
+__ArxivNetHiddenCitationLDA.nb__: A synchronous parallel implementation of the collapsed Gibbs sampling method for the latent Dirichlet allocation (LDA) algorithm.
 
 - Input: (1) Parsed citation contexts (subGPhy10000/subGPhy10000Corpus_210204.mx); (2) Dictionary of n-grams (subGPhy10000/subGPhy10000tfidf100000_210312.mx).
 
